@@ -1,0 +1,40 @@
+{
+	"compiler": {
+		"version": "0.6.6+commit.6c089d02"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"router.sol": "SafeMath"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"router.sol": {
+			"keccak256": "0xcac98496ee77b5beb19b566acf7e751ee4cc8b8447f01589481558dc6f33362b",
+			"urls": [
+				"bzz-raw://b4141b801899bb98fc9e90ccb932758925380c46a621a791010eeffc089b2034",
+				"dweb:/ipfs/QmbeFgBiuovsCZivnZ5Vr7myBFPWgXftVRAiMbGVvS6sBv"
+			]
+		}
+	},
+	"version": 1
+}
